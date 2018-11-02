@@ -7,6 +7,7 @@
 #include "Solver.h"
 int main(void)
 {
+
 	srand(time(NULL));
 	int matriz[4][4];
 	ListaDuplaEstado *lista = NULL;
